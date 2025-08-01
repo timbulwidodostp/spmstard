@@ -1,4 +1,28 @@
-D 'DEA': Data envelopment analysis
+D 'spmstard': Multiparametric Spatio Temporal AutoRegressive Regression Spatial Durbin Cross Sections Models Use spmstard With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F spmstard.ado
+F spmstard.dlg
+F spmstard.sthlp
+F spmstard1.ado
+F spmstard2.ado
+F spmstard3.ado
+F spmstard4.ado
+F spmstard5.ado
+F spmstard6.ado
+F spmstard7.ado
+F spmstard8.ado
+F spmstardxt.ado
+F spmstardxt.dlg
+F spmstardxt.sthlp
+F spmstardxt01.ado
+F spmstardxt02.ado
+F spmstardxt03.ado
+F spmstardxt04.ado
+F spmstardxt05.ado
+F spmstardxt06.ado
+F spmstardxt07.ado
+F spmstardxt08.ado
+F spmstardxt09.ado
+F spmstardxt10.ado
+F spmstardxt11.ado
+F spmstardxt12.ado
