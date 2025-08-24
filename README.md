@@ -3,6 +3,8 @@ Multiparametric Spatio Temporal AutoRegressive Regression Spatial Durbin Cross S
 
 (m-STAR) Multiparametric Spatio Temporal AutoRegressive Regression (Spatial Durbin Cross Sections Models) Use spmstard With STATA 19
 
+https://www.youtube.com/watch?v=EdTjFoYcjdk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
